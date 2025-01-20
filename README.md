@@ -3,7 +3,7 @@
 1. インターフェイスパネルについて：P51～56
 2. キーボードショートカットについて：P326～330
 
-マニュアルのURL
+マニュアルのURL  
 https://www.guitar-pro.jp/content/files/GP8_user_guide.pdf
 
 
